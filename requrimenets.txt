@@ -1,0 +1,4 @@
+cryptography==41.0.7
+art==6.1
+simple-term-menu==1.6.1
+tqdm==4.66.1
